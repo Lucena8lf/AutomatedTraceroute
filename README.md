@@ -7,5 +7,5 @@ Tool for the AUTS course that Runs traceroute (or tracert on Windows) to a chose
 1. Run the script
 
 ```sh
-python automated_traceroute.py -d domain1 domain2 domainN
+python automated_traceroute.py
 ```
